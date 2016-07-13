@@ -1,0 +1,29 @@
+/* remove ads at poczta.wp.pl */
+iframe[id*="advdyn"],
+#bx3Collapser,
+a[href*="//adv.wp.pl/RM/click_lx.ads"],
+img[src*="//rek.www.wp.pl/rgr.html"],
+.postSendWnd tr:nth-child(4),
+#w345_dr,
+div[onclick="window.open(window.clickTag, '_blank ')"],
+#poczta_loginbox_iframe {
+ display:none !important;
+}
+/* new message window at poczta.wp.pl */
+.popupMiddleCenterInner { overflow: hidden !important; }
+/* restyle login page at poczta.wp.pl */
+#stgHeader,
+#stgFooter,
+#rightLogBox,
+.bxZalety {
+ display:block !important;
+}
+#stgHeader { border-top: none !important; }
+#stgMain {
+ position: static !important;
+ width: 970px !important;
+ height: auto !important;
+ left: auto !important;
+ top: auto !important;
+}
+#stgMain { background-color: #fff !important; }
