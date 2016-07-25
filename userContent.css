@@ -1,6 +1,7 @@
 /* remove ads at poczta.wp.pl */
 iframe[id*="advdyn"],
 #bx3Collapser,
+a[href*="gemius.pl"],
 a[href*="//adv.wp.pl/RM/click_lx.ads"],
 img[src*="//rek.www.wp.pl/rgr.html"],
 .postSendWnd tr:nth-child(4),
