@@ -1,4 +1,5 @@
 /* remove ads at poczta.wp.pl */
+.wpAdv,
 div[id*="adv"],
 iframe[id*="advdyn"],
 #bx3Collapser,
