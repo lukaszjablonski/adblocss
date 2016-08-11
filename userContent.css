@@ -1,5 +1,7 @@
 /* remove ads at poczta.wp.pl */
 .wpAdv,
+.nepal-fullpage,
+.ml20, .mt16,
 div[id*="adv"],
 iframe[id*="advdyn"],
 #bx3Collapser,
