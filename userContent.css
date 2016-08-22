@@ -19,6 +19,9 @@ div[onclick="window.open(window.clickTag, '_blank ')"],
 /* new message window at poczta.wp.pl */
 .popupMiddleCenterInner { overflow: hidden !important; }
 /* restyle login page at poczta.wp.pl */
+.bxLogowanie {
+ height: 413px !important;
+}
 #stgHeader,
 #stgFooter,
 #rightLogBox,
