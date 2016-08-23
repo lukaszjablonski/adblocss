@@ -42,6 +42,8 @@ div[onclick="window.open(window.clickTag, '_blank ')"],
 #inContext_disabled,
 #axds,
 #RMF_ON_player_bill,
+body.rmf[id*="ad-"],
 .news-box-reklama { display:none !important; }
 .news-box-hidden { display:block !important; }
-body.rmf #frame { height:auto !important; } 
+body.rmf #frame { height:auto !important; }
+
