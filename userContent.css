@@ -37,3 +37,10 @@ div[onclick="window.open(window.clickTag, '_blank ')"],
  top: auto !important;
 }
 #stgMain { background-color: #fff !important; }
+
+/* www.rmfon.pl */
+#inContext_disabled,
+#axds,
+#RMF_ON_player_bill,
+.news-box-reklama { display:none !important; }
+.news-box-hidden { display:block !important; }
