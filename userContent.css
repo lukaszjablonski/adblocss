@@ -43,6 +43,7 @@ div[onclick="window.open(window.clickTag, '_blank ')"],
 #axds,
 #RMF_ON_player_bill,
 #frame div[id*="ad-"],
+#ad-gora-bill,
 .news-box-reklama { display:none !important; }
 .news-box-hidden { display:block !important; }
 body[class*="rmf"] #frame,
