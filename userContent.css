@@ -46,7 +46,7 @@ div[onclick="window.open(window.clickTag, '_blank ')"],
 #ad-gora-bill,
 .news-box-reklama { display:none !important; }
 .news-box-hidden { display:block !important; }
-body[class*="rmf"] #frame,
+/*body[class*="rmf"] #frame,
 body.maxxx #frame,
 body.classic #frame,
 body.elo #frame,
@@ -55,5 +55,8 @@ body[class*="0s"] #frame,
 body[class^="20"][class$="0"] #frame,
 body.alternatywa #frame,
 body.baby #frame,
+body.bajki #frame,
+body.blues #frame,
 body.classicrock #frame,
-body.rock #frame { height:600px !important; }
+body.rock #frame { height:600px !important; }*/
+body div#news-wrapper div#news-header {margin-top:75px !important;}
