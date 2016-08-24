@@ -47,7 +47,6 @@ div[onclick="window.open(window.clickTag, '_blank ')"],
 .news-box-reklama { display:none !important; }
 .news-box-hidden { display:block !important; }
 body[class*="rmf"] #frame,
-body[class^="rmf"] #frame,
 body.maxxx #frame,
 body.classic #frame,
 body.elo #frame,
