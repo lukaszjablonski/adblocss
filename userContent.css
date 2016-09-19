@@ -1,3 +1,7 @@
+iframe[src*="ads.salesmore.pl"],
+iframe[src*="afx.tagcdn.com"] {
+ display:none !important;
+}
 /* remove ads at poczta.wp.pl */
 #rightColumn,
 .wpAdv,
