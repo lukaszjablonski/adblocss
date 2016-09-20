@@ -6,7 +6,9 @@ a[href*="clk.tradedoubler.com"] {
 }
 /* remove ads at poczta.wp.pl */
 div[style*="min-width: 775px; margin: 10px auto; width: 100%;"],
-div[style*="min-height: 0px; width: 200px; position: relative; clear: both; border-collapse: separate; align-items: center; empty-cells: inherit; max-width: 100%; margin: auto; text-align: center; border-spacing: 0px; height: 200px; caption-side: inherit; display: block;"],
+div[style*="display: block; min-height: 0px; height: 130px; border-spacing: 0px; text-align: center; border-collapse: collapse; max-width: 100%; clear: both; margin: auto; width: 200px; align-items: center; position: relative;"],
+div[style*="display: block; min-height: 0px; position: relative; align-items: center; text-align: center; width: 200px; border-spacing: initial; clear: both; border-collapse: initial; height: 200px; caption-side: top; max-width: 100%; margin: auto;"],
+div[style*="display: block; min-height: 0px; position: relative; border-spacing: 0px; clear: both; height: 145px; margin: auto; text-align: center; caption-side: bottom; border-collapse: separate; align-items: center; width: 590px; max-width: 100%;"],
 #rightColumn,
 .wpAdv,
 .nepal-fullpage,
