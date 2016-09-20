@@ -5,7 +5,6 @@ a[href*="clk.tradedoubler.com"] {
  display:none !important;
 }
 /* remove ads at poczta.wp.pl */
-.gwt-HTML,
 #mainColumn div:last-child,
 #rightColumn,
 .wpAdv,
