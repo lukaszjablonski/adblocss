@@ -6,6 +6,7 @@ a[href*="clk.tradedoubler.com"] {
 }
 /* remove ads at poczta.wp.pl */
 div[style*="min-width: 775px; margin: 10px auto; width: 100%;"],
+div[style*="min-height: 0px; width: 200px; position: relative; clear: both; border-collapse: separate; align-items: center; empty-cells: inherit; max-width: 100%; margin: auto; text-align: center; border-spacing: 0px; height: 200px; caption-side: inherit; display: block;"],
 #rightColumn,
 .wpAdv,
 .nepal-fullpage,
