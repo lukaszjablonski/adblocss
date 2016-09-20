@@ -5,6 +5,7 @@ a[href*="clk.tradedoubler.com"] {
  display:none !important;
 }
 /* remove ads at poczta.wp.pl */
+div[style*="min-width: 775px; margin: 10px auto; width: 100%;"],
 #rightColumn,
 .wpAdv,
 .nepal-fullpage,
