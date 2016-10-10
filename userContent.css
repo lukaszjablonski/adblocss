@@ -7,8 +7,8 @@ a[href*="clk.tradedoubler.com"] {
 /* remove ads at poczta.wp.pl */
 body > div#main > div#middle > div#mainColumn > div:nth-child(2),
 body > div#main > div#middle > div#rightColumn,
-body > div#main > div#middle > div#leftColumn > div#leftColumnInner > table.dragdrop-dropTarget > tr:nth-child(5),
-body > div#main > div#middle > div#leftColumn > div#leftColumnInner > table.dragdrop-dropTarget > tr:nth-child(6),
+body > div#main > div#middle > div#leftColumn > div#leftColumnInner > table.dragdrop-dropTarget > tbody > tr:nth-child(5),
+body > div#main > div#middle > div#leftColumn > div#leftColumnInner > table.dragdrop-dropTarget > tbody > tr:nth-child(6),
 .wpAdv,
 .nepal-fullpage,
 .ml20, .mt16,
