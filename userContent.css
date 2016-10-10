@@ -5,8 +5,8 @@ a[href*="clk.tradedoubler.com"] {
  display:none !important;
 }
 /* remove ads at poczta.wp.pl */
-body > #mainColumn > div:nth-child(2), /* the bottom of the list of emails*/
-body > #rightColumn,
+body > #middle > #mainColumn > div:nth-child(2), /* the bottom of the list of emails*/
+body > #middle > #rightColumn,
 .wpAdv,
 .nepal-fullpage,
 .ml20, .mt16,
