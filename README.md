@@ -6,4 +6,4 @@ Add to your `userContent.css` the following line:
 @import url('https://lukaszjablonski.github.io/adblocss/userContent.css');
 ```
 
-You might also like this: http://floppymoose.com/
+You might also like this: https://css-tricks.com/css-for-blockin-stuff/
