@@ -1,7 +1,7 @@
 # adblocss
 CSS for blocking ads.
 
-Add to your `userContent.css` the following line:
+Add to the `userContent.css` the following line:
 ```css
 @import url('https://lukaszjablonski.github.io/adblocss/userContent.css');
 ```
