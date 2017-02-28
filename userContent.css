@@ -1,7 +1,8 @@
 iframe[src*="ads.salesmore.pl"],
 iframe[src*="afx.tagcdn.com"],
 iframe[src*="s0.2mdn.net"],
-a[href*="clk.tradedoubler.com"] {
+a[href*="clk.tradedoubler.com"],
+a[href*="owabgxis.wp.pl"] {
  display:none !important;
 }
 /* remove ads at poczta.wp.pl */
