@@ -75,3 +75,8 @@ body.blues #frame,
 body.classicrock #frame,
 body.rock #frame { height:600px !important; }*/
 body div#news-wrapper div#news-header {margin-top:75px !important;}
+
+/* natemat.pl */
+div[id*="clickonometrics"] {
+ display:none !important;
+}
