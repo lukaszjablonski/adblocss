@@ -6,9 +6,6 @@ Add to the `userContent.css` the following line:
 @import url('https://lukaszjablonski.github.io/adblocss/userContent.css');
 ```
 
-Alternatively, add to the bookmarks:
-```
-javascript:(function(){adblocss=document.createElement('LINK');adblocss.href='https://lukaszjablonski.github.io/adblocss/userContent.css';adblocss.rel='stylesheet';document.body.appendChild(adblocss);}
-```
+Alternatively, create a bookmark. Details: https://lukaszjablonski.github.io/adblocss/bookmark/
 
-You might also like this: https://css-tricks.com/css-for-blockin-stuff/
+You might also like: https://css-tricks.com/css-for-blockin-stuff/
