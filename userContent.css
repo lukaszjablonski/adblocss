@@ -3,8 +3,8 @@ iframe[src*="afx.tagcdn.com"],
 iframe[src*="s0.2mdn.net"],
 a[href*="clk.tradedoubler.com"],
 a[href*="owabgxis.wp.pl"] 
-._adr_abp_iframe /* www.rmfon.pl */,
-div[id*="clickonometrics"] /* natemat.pl */ {
+._adr_abp_iframe,
+div[id*="clickonometrics"] {
  display:none !important;
 }
 
