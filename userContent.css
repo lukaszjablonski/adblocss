@@ -18,8 +18,6 @@ div[id*="adv"],
 iframe[id*="advdyn"],
 #bx3Collapser,
 a[href*="gemius.pl"],
-a[href*="//adv.wp.pl/RM/click_lx.ads"],
-a[href*="//adv.wp.pl"],
 a[href*="//ad.doubleclick.net/"],
 a[href*="//owabgxis.wp.pl"],
 img[src*="//rek.www.wp.pl/rgr.html"],
@@ -54,27 +52,15 @@ div[onclick="window.open(window.clickTag, '_blank ')"],
 #stgMain { background-color: #fff !important; }
 
 /* www.rmfon.pl */
-#inContext_disabled,
+/*#inContext_disabled,
 #axds,
 #RMF_ON_player_bill,
 #frame div[id*="ad-"],
 #ad-gora-bill,
 .news-box-reklama { display:none !important; }
 .news-box-hidden { display:block !important; }
-/*body[class*="rmf"] #frame,
-body.maxxx #frame,
-body.classic #frame,
-body.elo #frame,
-body[class*="lat"] #frame,
-body[class*="0s"] #frame,
-body[class^="20"][class$="0"] #frame,
-body.alternatywa #frame,
-body.baby #frame,
-body.bajki #frame,
-body.blues #frame,
-body.classicrock #frame,
-body.rock #frame { height:600px !important; }*/
-body div#news-wrapper div#news-header {margin-top:75px !important;}
+body div#news-wrapper div#news-header {margin-top:75px !important;}*/
+._adr_abp_iframe { display:none !important; }
 
 /* natemat.pl */
 div[id*="clickonometrics"] {
