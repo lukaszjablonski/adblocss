@@ -2,7 +2,8 @@ iframe[src*="ads.salesmore.pl"],
 iframe[src*="afx.tagcdn.com"],
 iframe[src*="s0.2mdn.net"],
 a[href*="clk.tradedoubler.com"],
-a[href*="owabgxis.wp.pl"] 
+a[href*="owabgxis.wp.pl"],
+*[id*="_adr_abp_iframe"] /* rmfon.pl */,
 *[id*="clickonometrics"] /* natemat.pl */ {
  display:none !important;
 }
