@@ -1,5 +1,5 @@
 # adblocss
-CSS for blocking ads.
+> CSS for blocking ads.
 
 Add to the `userContent.css` the following line:
 ```css
