@@ -1,5 +1,4 @@
-## License
-Distributed under MIT License
+# The MIT License (MIT)
 
 Copyright (c) 2016 Lukasz Jablonski
 
