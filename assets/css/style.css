@@ -719,10 +719,11 @@
 }
 
 
-/* GITHUB */
+/* GitHub */
 .markdown-body {
   border: 1px solid #DDDDDD;
-  border-radius: 3px;
+  border-top-radius: 0px;
+  border-bottom-radius: 3px;
 
   margin-bottom: 30px;
   overflow-wrap: break-word;
