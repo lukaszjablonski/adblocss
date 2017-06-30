@@ -1,6 +1,6 @@
-// github-markdown.css (https://github.com/sindresorhus/github-markdown-css)
+/* github-markdown.css (https://github.com/sindresorhus/github-markdown-css) */
 
-// https://github.com/sindresorhus/github-markdown-css/blob/gh-pages/github-markdown.css
+/* https://github.com/sindresorhus/github-markdown-css/blob/gh-pages/github-markdown.css */
 
 @font-face {
   font-family: octicons-link;
@@ -704,7 +704,7 @@
 }
 
 
-// https://github.com/sindresorhus/github-markdown-css#usage
+/* https://github.com/sindresorhus/github-markdown-css#usage */
 
 .markdown-body {
   box-sizing: border-box;
