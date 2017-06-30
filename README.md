@@ -6,6 +6,6 @@ Add to the `userContent.css` the following line:
 @import url('https://lukaszjablonski.github.io/adblocss/userContent.css');
 ```
 
-Alternatively, create a bookmark. Details: https://lukaszjablonski.github.io/adblocss/bookmark/
+To test it ore use temporary, run it from a bookmark. Details: https://lukaszjablonski.github.io/adblocss/bookmark/
 
 You might also like: https://css-tricks.com/css-for-blockin-stuff/
