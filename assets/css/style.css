@@ -721,12 +721,9 @@
 
 /* GITHUB */
 .markdown-body {
-  border-bottom-left-radius: 3px;
-  border-bottom-right-radius: 3px;
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
-  font-size: 14px;
-  line-height: 21px;
+  border: 1px solid #6a737d;
+  border-radius: 3px;
+
   margin-bottom: 30px;
   overflow-wrap: break-word;
 }
